@@ -14,6 +14,5 @@ It supports all the general terminal commands along with the support for history
 
 ## Group Members
 
-> Aradhna Abraham (20134031)
-> Rangan Sarkar (20134035)
-> Tushar Sarkar (20075027)
+> - Aradhna Abraham (20134031)
+> - Rangan Sarkar (20134035)
