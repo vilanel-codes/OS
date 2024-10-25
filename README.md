@@ -1,8 +1,4 @@
-# Operating Systems Laboratory Spring 2022-23
-
-## Assignment 1
-
-> This assignment deals with programming in Bash.  
+# Operating Systems
 
 ## Assignment 2
 
@@ -12,4 +8,7 @@ It supports all the general terminal commands along with the support for history
 ## Assignment 3
 
 >This assignment demonstrates the use of Shared Memory in a computer.
+
+## Assignment 6
+>This assignment is the implementation of custom page table
 
