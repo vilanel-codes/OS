@@ -12,3 +12,8 @@ It supports all the general terminal commands along with the support for history
 ## Assignment 6
 >This assignment is the implementation of custom page table
 
+## Group Members
+
+> Aradhna Abraham (20134031)
+> Rangan Sarkar (20134035)
+> Tushar Sarkar (20075027)
